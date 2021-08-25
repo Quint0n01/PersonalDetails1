@@ -42,13 +42,10 @@ namespace PersonalDetails1
         {
             string connectionString;
             SqlConnection cnn;
-
             connectionString = @"Data Source=LAPTOP-9F8GCKKS;Initial Catalog=Personal_Info;Integrated Security=True";
             cnn = new SqlConnection(connectionString);
-
             cnn.Open();
             MessageBox.Show("Data submitted!");
-
             cnn.Close();
         }
 
