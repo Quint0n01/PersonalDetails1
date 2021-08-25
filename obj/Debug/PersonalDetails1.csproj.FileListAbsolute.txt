@@ -8,3 +8,7 @@ C:\Users\quint\source\repos\PersonalDetails1\PersonalDetails1\obj\Debug\Personal
 C:\Users\quint\source\repos\PersonalDetails1\PersonalDetails1\obj\Debug\PersonalDetails1.csproj.CoreCompileInputs.cache
 C:\Users\quint\source\repos\PersonalDetails1\PersonalDetails1\obj\Debug\PersonalDetails1.exe
 C:\Users\quint\source\repos\PersonalDetails1\PersonalDetails1\obj\Debug\PersonalDetails1.pdb
+C:\Users\quint\source\repos\PersonalDetails1\PersonalDetails1\bin\Debug\PersonalDetails1.exe.manifest
+C:\Users\quint\source\repos\PersonalDetails1\PersonalDetails1\bin\Debug\PersonalDetails1.application
+C:\Users\quint\source\repos\PersonalDetails1\PersonalDetails1\obj\Debug\PersonalDetails1.exe.manifest
+C:\Users\quint\source\repos\PersonalDetails1\PersonalDetails1\obj\Debug\PersonalDetails1.application
